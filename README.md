@@ -65,4 +65,4 @@ The value X.XX represents the percentage of AI-generated content detected.
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT]([https://choosealicense.com/licenses/mit/](https://github.com/revanthkalagudi/pdf-to-text-python/blob/main/LICENSE))
