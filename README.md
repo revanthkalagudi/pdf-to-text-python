@@ -35,7 +35,7 @@ pip install nltk
   - with **open('output.txt', 'w')** as text_file: Replace 'output.txt' with the desired filename for the output text file.
 
 
-3. **Run the code:** Open the command prompt or terminal, navigate to the directory containing the code file, and execute the following command:
+3. Run the code: Open the command prompt or terminal, navigate to the directory containing the code file, and execute the following command:
 
 ```python
 python filename.py
